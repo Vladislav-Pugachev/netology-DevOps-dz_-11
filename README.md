@@ -18,7 +18,7 @@ Referrer Policy: strict-origin-when-cross-origin
 
 > Дольше всего загружалась страница https://stackoverflow.com/ 1.01 сек
  
-![consol.jpg]
+![скриншот](https://github.com/Vladislav-Pugachev/netology-DevOps-dz_-11.git/consol.jpg)
 
 ### 3.
 ```buildoutcfg
